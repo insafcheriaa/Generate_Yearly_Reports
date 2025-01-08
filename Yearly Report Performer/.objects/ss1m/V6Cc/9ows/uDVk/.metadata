@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Report File",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "uDVkFxKR506aD27nHiTJVQ",
+  "Reference": "a3UsSrxR2Uaj6GkD5S-gRA/uDVkFxKR506aD27nHiTJVQ",
+  "ParentRef": "a3UsSrxR2Uaj6GkD5S-gRA/9ows3gVa2ku4oBprVTDO-g",
+  "Created": "2024-12-19T21:52:50.7206171Z",
+  "Updated": "2024-12-19T21:52:50.7206171Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5zP5MMytoEyyv-jeyWjsVw" Reference="a3UsSrxR2Uaj6GkD5S-gRA/il0J_bdGEUKrLKVXqoAixA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="19335d11-f4ee-4e92-847c-a8c8c3ff073e" CvElementArea="464, 178, 95, 63" CvTextArea="499, 202, 26, 15" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="472, 186, 81, 48" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com says' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' check:fulltext='OK' /&gt;" Guid="8257842e-2610-438e-8385-f0ecdd8e7019" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="19335d11-f4ee-4e92-847c-a8c8c3ff073e" CvTextArea="40, 106, 243, 23" CvTextArgument="acme-test.uipath.com says" CvType="Text" DesignTimeRectangle="40, 106, 243, 23" ElementType="Text" Guid="4b8a0983-4e33-47ed-a400-2eb6b3b8a9a1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e2aeaddf9a0b090849d86207b0c75a5.png" xmlns="">0ITq-qp50PkK0W37wOog9Jg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

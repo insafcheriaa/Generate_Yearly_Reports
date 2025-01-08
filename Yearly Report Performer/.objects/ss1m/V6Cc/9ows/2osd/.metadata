@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Report was uploaded - c…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2osdvkoOe0iHDqDzIQqV2w",
+  "Reference": "a3UsSrxR2Uaj6GkD5S-gRA/2osdvkoOe0iHDqDzIQqV2w",
+  "ParentRef": "a3UsSrxR2Uaj6GkD5S-gRA/9ows3gVa2ku4oBprVTDO-g",
+  "Created": "2024-12-19T22:21:27.7431487Z",
+  "Updated": "2024-12-19T22:21:27.7431487Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
