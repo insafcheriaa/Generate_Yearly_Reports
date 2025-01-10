@@ -47,13 +47,6 @@ The Generate Yearly Report Automation project is designed to automate the yearly
 2. **Run Performer**:  
    - Processes each transaction, downloads reports, generates yearly summaries, uploads them, and updates the system.  
 
-
-## Exceptions and Error Handling  
-- **Invalid Credentials**: Sends an email notification to the support team.  
-- **Missing Monthly Reports**: Skips missing months and proceeds with available data.  
-- **Application Unresponsive**: Retries the operation up to two times before failing gracefully.  
-
-
 ## Additional Resources  
 - [ReFramework Documentation](https://docs.uipath.com/studio/docs/robotic-enterprise-framework)  
 - [UiPath Orchestrator Documentation](https://docs.uipath.com/orchestrator/docs)  
